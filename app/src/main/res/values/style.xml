@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="AppTheme.Green" parent="PayumoneyAppTheme">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/purple_500</item>
+        <item name="colorAccent">@color/purple_200</item>
+        <item name="colorButtonNormal">@color/teal_200</item>
+        <item name="alertDialogTheme">@color/teal_700</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+</resources>
